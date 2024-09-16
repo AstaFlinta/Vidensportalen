@@ -75,14 +75,13 @@ Formater dit svar ved hjælp af Markdown syntax:
 - Brug '**' for fed skrift.
 - Brug '*' for *kursiv* tekst.
 - Brug '#', '##', '###' osv. for overskrifter.
-- Brug '-' eller '*' for punktopstillinger, og sørg for at hvert listepunkt starter på en ny linje og efterfølges af en TOM linje (et linjeskift uden tekst) for at sikre korrekt visning i Markdown.
-- Brug '1.', '2.', '3.' osv. for nummererede lister, og sørg for at hvert nummer begynde på en ny linje og også efterfølges af en TOM linje.
-- Brug to linjeskift (to TOMME linjer) mellem afsnit for at sikre, at de vises korrekt i Markdown.
+- Brug '-' eller '*' for punktopstillinger.
+- Brug '1.', '2.', '3.' osv. for nummererede lister.
 - Brug '`' for inline kode og '```' for kodeblokke.
 
 Sørg for at strukturere dit svar med god brug af afsnit, overskrifter og lister for at gøre det let at læse.
 
-Når du afslutter hver punktopstilling eller nummereret liste, så husk at efterlade en TOM linje, inden du starter en ny sektion eller afsnit.
+Du skal ikke skrive spørgsmålet øverst i dit svar - du kan bare begynde at svare direkte. 
 
 Svar:"""
 
